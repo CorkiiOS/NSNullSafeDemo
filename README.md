@@ -1,0 +1,2 @@
+# NSNullSafeDemo
+NSNull + safe
